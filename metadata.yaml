@@ -1,5 +1,8 @@
 _repo: Le-Banian-roman-maritime-12_63220
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63220-h/images/cover.jpg
 creator:
   author:
     agent_name: Corbière, Edouard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6234
     wikipedia: http://fr.wikipedia.org/wiki/Edouard_Corbière
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63220#Le-Banian-roman-maritime-12
 gutenberg_issued: '2020-09-17'
 gutenberg_type: Text
 identifiers:
